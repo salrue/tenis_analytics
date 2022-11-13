@@ -1,3 +1,3 @@
-Project to plot a tenis game shot. Data from app 
-Author:Salvador Rueda
+Project to plot a tennis game shot. Data from app 
 
+**Author**:Salvador Rueda
